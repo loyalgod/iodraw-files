@@ -21,25 +21,19 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化与知识获取，得到精英初始种群和&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;初始概率模型Spstats&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="120" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" target="30vObCBBe6gHbsd9jTeS-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组:输出全局分组方案&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;globalGroupAssignment&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-9" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;环境选择&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;合并 P(t) + Offspring&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;非支配排序 → 选满前沿&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;超员时：最小距离截断&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输出下一代种群&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P(t+1)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="340" width="295" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-16" edge="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="30vObCBBe6gHbsd9jTeS-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="560" as="targetPoint" />
+            <mxPoint x="370" y="560" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;知识挖掘与分组更新&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;提取 P(t+1) 中第一前沿 F1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;更新 Spstats&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;若达重分组周期（如每20代）：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;重新基于 Spstats 生成 globalGroupAssignment&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;currentGroup ← mod(currentGroup, G) + 1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="450" width="295" height="110" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="600" width="100" height="80" as="geometry" />
