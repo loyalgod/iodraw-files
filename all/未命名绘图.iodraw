@@ -24,14 +24,6 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组:输出全局分组方案&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;globalGroupAssignment&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7LzSmJgHzQg_6NXXnu4V-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7LzSmJgHzQg_6NXXnu4V-5" target="7LzSmJgHzQg_6NXXnu4V-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="460" />
-              <mxPoint x="370" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-5" value="是否达到函数迭代&lt;div&gt;次数&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="292.5" y="330" width="155" height="93" as="geometry" />
         </mxCell>
@@ -70,6 +62,18 @@
         </mxCell>
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7LzSmJgHzQg_6NXXnu4V-13" target="7LzSmJgHzQg_6NXXnu4V-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
