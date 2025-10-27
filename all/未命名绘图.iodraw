@@ -65,8 +65,13 @@
         </mxCell>
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="520" as="sourcePoint" />
-            <mxPoint x="650" y="470" as="targetPoint" />
+            <mxPoint x="369.5" y="420" as="sourcePoint" />
+            <mxPoint x="369.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7LzSmJgHzQg_6NXXnu4V-39">
+          <mxGeometry x="0.1333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
