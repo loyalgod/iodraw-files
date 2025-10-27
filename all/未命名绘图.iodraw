@@ -29,11 +29,11 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组:输出全局分组方案&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;globalGroupAssignment&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7LzSmJgHzQg_6NXXnu4V-5" target="7LzSmJgHzQg_6NXXnu4V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-5" value="是否达到函数迭代&lt;div&gt;次数&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="340" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7LzSmJgHzQg_6NXXnu4V-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-7" value="父代选择" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="460" width="120" height="40" as="geometry" />
