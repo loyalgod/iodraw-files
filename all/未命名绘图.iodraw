@@ -44,6 +44,9 @@
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-10" value="分组协同的子代生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="520" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-12" value="父代选择" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
