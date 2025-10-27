@@ -50,6 +50,9 @@
         <mxCell id="7LzSmJgHzQg_6NXXnu4V-13" value="知识挖掘与分组动态&lt;div&gt;更新&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="650" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7LzSmJgHzQg_6NXXnu4V-14" value="父代选择" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
