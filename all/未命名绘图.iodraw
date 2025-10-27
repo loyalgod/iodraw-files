@@ -24,7 +24,7 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" target="30vObCBBe6gHbsd9jTeS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;分组协同的子代生成。&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：父代 Dec/ Mask，控制信号Spstats, globalGroupAssignment, currentGroup&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;子代种群 Offspring&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-9" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
