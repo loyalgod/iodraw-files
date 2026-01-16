@@ -104,7 +104,7 @@
           <mxGeometry x="-114" y="-317" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-18" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;第一人位于头侧，负责人工气道、呼吸机管路、头部&lt;/div&gt;&lt;div&gt;的安置和发出口令；&lt;/div&gt;&lt;div&gt;第二人位于左上，负责监护导线、胃管；该侧引流管&lt;/div&gt;&lt;div&gt;第三人位于左下，负责尿管、股动、静脉导管&lt;/div&gt;&lt;div&gt;第四人位于右上，负责颈内静脉置管、该侧的引流管&lt;/div&gt;&lt;div&gt;第五人位于右下，负责骨牵引等，&lt;/div&gt;&lt;div&gt;人员分配情况根据病人的病情及身体上的管路确定。&lt;/div&gt;&lt;div&gt;第一人发出口令，其余四人同时将病人移向有重要导&lt;/div&gt;&lt;div&gt;管一侧，然后转为侧卧，易受压处贴减压敷料，头部&lt;/div&gt;&lt;div&gt;胸前准备体位垫，翻至俯卧位，双手前屈置于身体两&lt;/div&gt;&lt;div&gt;侧，背部黏贴电极片，骨隆突位置垫减压水袋，整理&lt;/div&gt;&lt;div&gt;检查各引流管，听诊背部呼吸音，调整呼吸机管路&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="558" y="-246" width="350.5" height="209" as="geometry" />
+          <mxGeometry x="418" y="-211" width="350.5" height="209" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;协助医生处理至病情稳定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="41" y="-110" width="157" height="32" as="geometry" />
@@ -155,6 +155,12 @@
             <mxPoint x="453.5" y="-371" as="sourcePoint" />
             <mxPoint x="503.5" y="-421" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.183;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-12" target="lI3VnrNuNV7lSSgWIXS8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-44" value="判断有无相对禁忌症" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="879" y="-213" width="157" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
