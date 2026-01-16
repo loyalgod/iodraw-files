@@ -72,7 +72,10 @@
           <mxGeometry x="74" y="-347" width="170" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-7" value="物品准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="-287" width="120" height="32" as="geometry" />
+          <mxGeometry x="331.5" y="-291" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-8" value="物品准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="-237" width="120" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
