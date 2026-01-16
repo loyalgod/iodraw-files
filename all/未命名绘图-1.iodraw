@@ -96,10 +96,13 @@
           <mxGeometry x="-323" y="-427" width="201" height="327" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;协助医生处理至病情稳定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="-110" width="120" height="32" as="geometry" />
+          <mxGeometry x="41" y="-110" width="157" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;终止俯卧位通气，恢复原体位，抢救病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="-54" width="248" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-21" value="&lt;div style=&quot;text-align: left;&quot;&gt;观察生命体征有无异常&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151.5" y="-28" width="157" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
