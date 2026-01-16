@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-1" value="判断有无相对禁忌症" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="316" y="-524" width="156" height="74" as="geometry" />
+          <mxGeometry x="315" y="-524" width="157" height="64" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-7" value="物品准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331.5" y="-291" width="120" height="32" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="99" y="-579" width="148" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-27" value="&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.666667px; text-align: left;&quot;&gt;权衡实施俯卧位利大于弊&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="-503" width="159" height="32" as="geometry" />
+          <mxGeometry x="93.5" y="-503" width="159" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
