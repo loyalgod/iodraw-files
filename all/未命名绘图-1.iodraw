@@ -124,6 +124,11 @@
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-27" target="lI3VnrNuNV7lSSgWIXS8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lI3VnrNuNV7lSSgWIXS8-34">
+          <mxGeometry x="0.0279" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-27" value="&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.666667px; text-align: left;&quot;&gt;权衡实施俯卧位利大于弊&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="91" y="-508" width="159" height="32" as="geometry" />
         </mxCell>
