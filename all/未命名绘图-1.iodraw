@@ -158,13 +158,16 @@
           <mxGeometry x="330" y="128" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-52" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;核查：病人生命体征，各种管路等&lt;/div&gt;&lt;div&gt;记录：测量生命体征，记录护理记录单&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545.5" y="60" width="223" height="44" as="geometry" />
+          <mxGeometry x="499" y="173" width="223" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;翻身床俯卧位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1109" y="121" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;结束俯卧位通气&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1035" y="58" width="103" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-55" target="lI3VnrNuNV7lSSgWIXS8-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-55" value="&lt;div style=&quot;text-align: left;&quot;&gt;核查、记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="182" width="103" height="32" as="geometry" />
@@ -177,11 +180,6 @@
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;1、俯卧位结束后，先由第一人安排人员管 理好病人的管路，并且发出口令，其余人员 同时将病人托起，先移向床的一侧，然后将 病人转为侧卧位，撤除床垫上的敷料及软 枕，水袋，整理好床铺，然后将病人摆放至 需要的体位。&lt;/div&gt;&lt;div&gt;2、俯卧位治疗结束后，积极做好气道管理， 听诊肺部呼吸音，加强气道引流。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472" y="491" width="375" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="lI3VnrNuNV7lSSgWIXS8-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="556" y="305" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;护理记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="504" y="238" width="103" height="32" as="geometry" />
