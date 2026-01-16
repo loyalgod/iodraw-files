@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lI3VnrNuNV7lSSgWIXS8-0" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-0" value="判断有无相对禁忌症" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="372" y="-238" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
