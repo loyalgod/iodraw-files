@@ -61,6 +61,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-1" target="lI3VnrNuNV7lSSgWIXS8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-1" value="判断有无相对禁忌症" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="-524" width="157" height="64" as="geometry" />
         </mxCell>
@@ -123,6 +126,9 @@
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-30" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171" y="-534" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="383.5" y="-466" width="41" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
