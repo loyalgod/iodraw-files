@@ -151,11 +151,14 @@
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-50" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;div&gt;1、把头部垫高20-30°左右，头下垫软枕，也可垫马蹄形枕头，使颜面部悬空&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.采用头高足低位(反特伦德堡体位),以促进静脉血流、降低眼压。 清醒俯卧位时，床头轻度抬高10°即可，可采用海豚式体位；经典俯卧位时尽量保持床头抬高30°&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.有效固定约束具&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.2h更换头面部翻转方向，防止同一部位长时间受压&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.腹泻明显使用造口袋，预防失禁性皮炎&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="32" y="115" width="208" height="311" as="geometry" />
         </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-51" target="lI3VnrNuNV7lSSgWIXS8-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-51" value="&lt;div style=&quot;text-align: left;&quot;&gt;安置病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="128" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-52" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;核查：病人生命体征，各种管路等&lt;/div&gt;&lt;div&gt;记录：测量生命体征，记录护理记录单&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="793" y="101" width="223" height="44" as="geometry" />
+          <mxGeometry x="545.5" y="60" width="223" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;翻身床俯卧位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1109" y="121" width="103" height="32" as="geometry" />
@@ -170,10 +173,15 @@
           <mxGeometry x="937" y="185" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-59" value="&lt;div style=&quot;text-align: left;&quot;&gt;按照翻身床使用和操作方法进行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="541.75" y="165" width="194.25" height="32" as="geometry" />
+          <mxGeometry x="819" y="115" width="194.25" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;1、俯卧位结束后，先由第一人安排人员管 理好病人的管路，并且发出口令，其余人员 同时将病人托起，先移向床的一侧，然后将 病人转为侧卧位，撤除床垫上的敷料及软 枕，水袋，整理好床铺，然后将病人摆放至 需要的体位。&lt;/div&gt;&lt;div&gt;2、俯卧位治疗结束后，积极做好气道管理， 听诊肺部呼吸音，加强气道引流。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472" y="491" width="375" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="305" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;护理记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="504" y="238" width="103" height="32" as="geometry" />
