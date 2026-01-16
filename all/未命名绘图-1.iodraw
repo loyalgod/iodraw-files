@@ -133,13 +133,13 @@
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-51" value="&lt;div style=&quot;text-align: left;&quot;&gt;安置病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="83" width="103" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="lI3VnrNuNV7lSSgWIXS8-52" value="&lt;div style=&quot;text-align: left;&quot;&gt;安置病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-52" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;核查：病人生命体征，各种管路等&lt;/div&gt;&lt;div&gt;记录：测量生命体征，记录护理记录单&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="913" y="113" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;安置病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1109" y="121" width="103" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="lI3VnrNuNV7lSSgWIXS8-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;安置病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;结束俯卧位通气&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1035" y="58" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-55" value="&lt;div style=&quot;text-align: left;&quot;&gt;核查、记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
