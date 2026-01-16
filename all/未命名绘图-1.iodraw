@@ -54,15 +54,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gIRvnGAzCNlK1OQJmEMH-24" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;体位摆放&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;将床放平，帮助病人身体摆放成俯卧位， 将第一个枕头(毛巾卷或被子卷)垫&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;在胸部，将第二个枕头(毛巾卷或被子卷)垫在前额的下方，预留出足够的空&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;间容纳吸氧鼻塞或面罩，让病人的头部摆放在他们认为最舒服的位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-195" width="490" height="81" as="geometry" />
+          <mxGeometry x="120" y="-195" width="536" height="77" as="geometry" />
         </mxCell>
         <mxCell id="gIRvnGAzCNlK1OQJmEMH-25" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="-411" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gIRvnGAzCNlK1OQJmEMH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.478;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gIRvnGAzCNlK1OQJmEMH-11" target="gIRvnGAzCNlK1OQJmEMH-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gIRvnGAzCNlK1OQJmEMH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gIRvnGAzCNlK1OQJmEMH-10" target="gIRvnGAzCNlK1OQJmEMH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
