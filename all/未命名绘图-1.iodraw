@@ -81,7 +81,7 @@
           <mxGeometry x="140" y="303" width="497" height="138" as="geometry" />
         </mxCell>
         <mxCell id="gIRvnGAzCNlK1OQJmEMH-42" value="护理记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="388" y="509" width="120" height="60" as="geometry" />
+          <mxGeometry x="326.5" y="469" width="124" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
