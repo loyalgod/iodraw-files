@@ -161,7 +161,7 @@
           <mxGeometry x="504" y="176" width="223" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;翻身床俯卧位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="319" width="103" height="32" as="geometry" />
+          <mxGeometry x="367" y="388" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;结束俯卧位通气&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="236" width="103" height="32" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="330" y="182" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;普通床俯卧位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="937" y="185" width="103" height="32" as="geometry" />
+          <mxGeometry x="486" y="292" width="103" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-59" value="&lt;div style=&quot;text-align: left;&quot;&gt;按照翻身床使用和操作方法进行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="819" y="115" width="194.25" height="32" as="geometry" />
