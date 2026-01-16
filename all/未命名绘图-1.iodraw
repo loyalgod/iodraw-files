@@ -113,10 +113,10 @@
           <mxGeometry x="418" y="-211" width="350.5" height="201" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;协助医生处理至病情稳定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="79" y="51" width="157" height="32" as="geometry" />
+          <mxGeometry x="78" y="39" width="157" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;终止俯卧位通气，恢复原体位，抢救病人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-120" y="-54" width="248" height="36" as="geometry" />
+          <mxGeometry x="6" y="-60" width="248" height="36" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-21" value="&lt;div style=&quot;text-align: left;&quot;&gt;观察生命体征有无异常&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-74.5" y="-16" width="157" height="32" as="geometry" />
@@ -163,6 +163,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.183;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-12" target="lI3VnrNuNV7lSSgWIXS8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lI3VnrNuNV7lSSgWIXS8-44" target="lI3VnrNuNV7lSSgWIXS8-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-44" value="判断有无相对禁忌症" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
