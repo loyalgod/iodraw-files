@@ -77,8 +77,17 @@
         <mxCell id="lI3VnrNuNV7lSSgWIXS8-8" value="病人准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="-237" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="lI3VnrNuNV7lSSgWIXS8-10" value="病人准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;实施俯卧位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="326.5" y="-183" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;实施俯卧位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336.5" y="-173" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;实施俯卧位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="818" y="-186" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lI3VnrNuNV7lSSgWIXS8-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;实施俯卧位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="702" y="-320" width="120" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
