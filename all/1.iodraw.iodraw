@@ -40,7 +40,7 @@
             <mxPoint x="370" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;输出精英初始种群 P0和初始 Spstats 模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;父代选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="560" width="295" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
