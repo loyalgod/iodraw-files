@@ -48,6 +48,11 @@
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-29" target="IO8qVzwnwEvpvqQWsVoV-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IO8qVzwnwEvpvqQWsVoV-34" value="环境筛选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IO8qVzwnwEvpvqQWsVoV-33">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-29" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;产生更优的解&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(协同进化新个体)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="460" width="187.5" height="50" as="geometry" />
         </mxCell>
