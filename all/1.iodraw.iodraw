@@ -55,10 +55,13 @@
         <mxCell id="uw6TicfkUgAMugIApoJp-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;分组协同的子代生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296.25" y="530" width="147.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uw6TicfkUgAMugIApoJp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uw6TicfkUgAMugIApoJp-4" target="uw6TicfkUgAMugIApoJp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uw6TicfkUgAMugIApoJp-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;环境选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296.25" y="590" width="147.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TicfkUgAMugIApoJp-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;环境选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uw6TicfkUgAMugIApoJp-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;知识挖掘与分组动态更新&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296.25" y="660" width="147.5" height="40" as="geometry" />
         </mxCell>
       </root>
