@@ -15,6 +15,9 @@
             <mxPoint x="370" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IO8qVzwnwEvpvqQWsVoV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-6" target="IO8qVzwnwEvpvqQWsVoV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-6" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;全局概率模型(Spstats)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;变量重要性分布&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="210" width="187.5" height="50" as="geometry" />
         </mxCell>
@@ -22,7 +25,7 @@
           <mxGeometry x="140" y="330" width="187.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-25" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;动态分组策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;（轮换+重分组）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="433.75" y="330" width="187.5" height="50" as="geometry" />
+          <mxGeometry x="414" y="330" width="187.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
