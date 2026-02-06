@@ -29,16 +29,16 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组：输出全局分组方案&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;globalGroupAssignment&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="420" as="sourcePoint" />
+            <mxPoint x="370" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;合并：引导种群 + 单变量探测种群（TempPop），通过非支配排序 + 拥挤距离选择 N 个精英个体&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="450" width="295" height="80" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="30vObCBBe6gHbsd9jTeS-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="530" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;输出精英初始种群 P0和初始 Spstats 模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="560" width="295" height="80" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uw6TicfkUgAMugIApoJp-0" value="是否达到函数迭代次数" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="285" y="340" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
