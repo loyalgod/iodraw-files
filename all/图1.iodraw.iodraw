@@ -23,7 +23,7 @@
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-6" target="IO8qVzwnwEvpvqQWsVoV-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IO8qVzwnwEvpvqQWsVoV-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IO8qVzwnwEvpvqQWsVoV-26">
+        <mxCell id="IO8qVzwnwEvpvqQWsVoV-28" value="引导问题分解" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IO8qVzwnwEvpvqQWsVoV-26">
           <mxGeometry x="0.0298" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
