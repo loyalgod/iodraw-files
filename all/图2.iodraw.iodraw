@@ -18,35 +18,39 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-5" target="30vObCBBe6gHbsd9jTeS-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;构造D个单位掩码解，每个变量独立评估10次&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;jbNO1_Coqa3xHMyXC03J&quot;&gt;生成Fitness向量和MImportance向量&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-5" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：当前种群 P(t)&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;父代选择：锦标赛选择 → 2N 个父代&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="120" width="295" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" target="30vObCBBe6gHbsd9jTeS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;对MImportance进行k=2聚类，小簇分配更高激活概率，&lt;span style=&quot;background-color: transparent; font-size: 13px; letter-spacing: 0.064px; text-align: start;&quot;&gt;生成初始概率模型 Spstats&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;分组协同的子代生成。&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：父代 Dec/ Mask，控制信号Spstats, globalGroupAssignment, currentGroup&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输出&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;子代种群 Offspring&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-9" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;随机生成 Dec；基于 Fitness 选择少量“种子变量”，其余变量根据Status模型激活。生成引导的初始种群&amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;环境选择&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;合并 P(t) + Offspring&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;非支配排序 → 选满前沿&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;超员时：最小距离截断&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输出下一代种群&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P(t+1)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="340" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;合并：引导种群 + 单变量探测种群（TempPop），通过非支配排序 + 拥挤距离选择 N 个精英个体&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="450" width="295" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;输出精英初始种群 P0和初始 Spstats 模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="560" width="295" height="80" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;知识挖掘与分组更新&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;提取 P(t+1) 中第一前沿 F1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;更新 Spstats&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;若达重分组周期（如每20代）：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;重新基于 Spstats 生成 globalGroupAssignment&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;currentGroup ← mod(currentGroup, G) + 1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="222.5" y="450" width="295" height="110" as="geometry" />
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="660" width="100" height="80" as="geometry" />
+          <mxGeometry x="320" y="600" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-14" target="30vObCBBe6gHbsd9jTeS-16" edge="1">
+        <mxCell id="yXhCc_TFdwB4f3kepS_B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.002;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXhCc_TFdwB4f3kepS_B-3" value="循环迭代" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yXhCc_TFdwB4f3kepS_B-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.0533" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
