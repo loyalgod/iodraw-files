@@ -21,17 +21,18 @@
         <mxCell id="30vObCBBe6gHbsd9jTeS-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化与知识获取，得到精英初始种群和&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;初始概率模型Spstats&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="120" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" target="30vObCBBe6gHbsd9jTeS-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;对MImportance进行k=2聚类，小簇分配更高激活概率，&lt;span style=&quot;background-color: transparent; font-size: 13px; letter-spacing: 0.064px; text-align: start;&quot;&gt;生成初始概率模型 Spstats&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="30vObCBBe6gHbsd9jTeS-7" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;基于变量重要性的初始分组：输出全局分组方案&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;globalGroupAssignment&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="230" width="295" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-9" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="30vObCBBe6gHbsd9jTeS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;随机生成 Dec；基于 Fitness 选择少量“种子变量”，其余变量根据Status模型激活。生成引导的初始种群&amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="222.5" y="340" width="295" height="80" as="geometry" />
+        <mxCell id="30vObCBBe6gHbsd9jTeS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="30vObCBBe6gHbsd9jTeS-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="30vObCBBe6gHbsd9jTeS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="30vObCBBe6gHbsd9jTeS-11" target="30vObCBBe6gHbsd9jTeS-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
