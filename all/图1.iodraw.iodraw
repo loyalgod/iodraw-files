@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-27" value="引导结构演化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IO8qVzwnwEvpvqQWsVoV-5">
           <mxGeometry x="0.1251" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-6" target="IO8qVzwnwEvpvqQWsVoV-25">
@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-28" value="引导问题分解" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IO8qVzwnwEvpvqQWsVoV-26">
           <mxGeometry x="0.0298" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-6" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;全局概率模型(Spstats)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;变量重要性分布&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
