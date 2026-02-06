@@ -37,6 +37,9 @@
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-25" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;动态分组策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;（轮换+重分组）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="330" width="187.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IO8qVzwnwEvpvqQWsVoV-29" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;全局概率模型(Spstats)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;变量重要性分布&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="220" width="187.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
