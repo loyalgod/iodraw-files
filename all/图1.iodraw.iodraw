@@ -7,8 +7,8 @@
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-4" target="IO8qVzwnwEvpvqQWsVoV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IO8qVzwnwEvpvqQWsVoV-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化与知识获取，得到精英初始种群和&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;初始概率模型Spstats&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="120" width="295" height="80" as="geometry" />
+        <mxCell id="IO8qVzwnwEvpvqQWsVoV-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;精英解集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="127.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IO8qVzwnwEvpvqQWsVoV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IO8qVzwnwEvpvqQWsVoV-6">
           <mxGeometry relative="1" as="geometry">
